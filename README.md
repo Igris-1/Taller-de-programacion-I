@@ -1,4 +1,4 @@
-# Taller de programación I catedra átedra Veiga 2024C2
+# Taller de programación I cátedra Veiga 2024C2
 
 - El lenguaje utilizado fue **C++**
 - La cursada consta de 6 recaps y 4 tps
